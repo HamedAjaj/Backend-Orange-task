@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orange_task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e489d21e9b32b096dfbc326c8cddb82afd354dd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40179610aee67dd2a2fe9d6cc2bc900caadb16d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orange_task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orange_task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
